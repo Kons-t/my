@@ -1,1 +1,1 @@
-# my
+# minesweeper game logic
